@@ -1,3 +1,3 @@
 # gitskills
 modify
-AND
+and
